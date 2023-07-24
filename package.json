@@ -8,5 +8,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/node": "^20.4.4",
+    "eslint": "^8.45.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "fastify": "^4.20.0",
+    "knex": "^2.5.1",
+    "mysql2": "^3.5.2",
+    "zod": "^3.21.4"
+  }
 }
