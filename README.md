@@ -25,3 +25,11 @@
 - [x] A refeição poder estar ou não dentro da dieta
 - [x] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
 
+# Routes tests
+- [x] POST - Create snack
+- [x] PUT - Update snack
+- [x] GET - List snacks
+- [x] GET - Get metrics
+- [x] GET - View snack with id
+- [x] DEL - Delete snack
+

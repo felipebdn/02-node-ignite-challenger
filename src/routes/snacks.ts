@@ -135,6 +135,7 @@ export async function snacksRoutes(app: FastifyInstance) {
           id,
           session_id: sessionId,
         })
+
       return res.status(201).send()
     },
   )
